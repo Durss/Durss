@@ -8,6 +8,6 @@ If you like my work and want to thank me for sharing it, you can [☕ buy me a g
 Or [❤ sponsor me ❤](https://github.com/sponsors/durss) if you're feeling it :)
 \
 \
-![Durss's GitHub stats](https://github-readme-stats.vercel.app/api?username=durss&show_icons=true&theme=github_dark&custom_title=Durss%27%20Github%20stats)
+![Durss's GitHub stats](https://github-readme-stats-six-mocha-90.vercel.app/api?username=durss&show_icons=true&theme=github_dark&custom_title=Durss%27%20Github%20stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durss&layout=compact&theme=github_dark&langs_count=10&hide=actionscript&v=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-mocha-90.vercel.app/api/top-langs/?username=durss&layout=compact&theme=github_dark&langs_count=10&hide=actionscript&v=1)](https://github.com/anuraghazra/github-readme-stats)
